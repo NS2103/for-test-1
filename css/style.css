@@ -19,6 +19,25 @@ body {
   background: #fff;
 }
 
+/*Taukir Included*/
+
+#footer{
+  height: 200px;
+  padding: 7% 35%;
+  text-align: center;
+
+}
+
+.social-handles{
+  padding-bottom: 10%;
+}
+
+
+
+
+
+
+/*Taukir Included*/
 #page {
   position: relative;
   overflow-x: hidden;
